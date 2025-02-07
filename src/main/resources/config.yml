@@ -1,0 +1,7 @@
+settings:
+  proxy: true
+  DragonCore: true
+  defaultChannel: global
+  debug: false
+filter:
+  草: 喵
