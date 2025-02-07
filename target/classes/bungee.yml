@@ -1,6 +1,0 @@
-name: TeaChat
-version: '1.0.1-Beta5'
-author: NyaSoup
-main: top.heartstring.teachat.BungeeCore
-softdepend: [LuckPerms]
-
