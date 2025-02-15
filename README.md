@@ -2,20 +2,20 @@
 
 [![licenseImg](https://camo.githubusercontent.com/493691215cbc07b735ecb9f8920f5569166ec72eb89a9c2d17c8ab17814eda43/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f506c616365686f6c6465724150492f506c616365686f6c6465724150492e737667)](https://github.com/PlaceholderAPI/PlaceholderAPI/blob/master/LICENSE)
 
-## 1. 介绍
+English | [简体中文](https://github.com/TeaNiko/TeaChat/blob/main/README-zh_cn.md)
 
-​	一个简单易用的Minecraft服务端跨服聊天插件，支持具有DragonCore的服务端客户端上哈希聊天色彩
+## 1. Introduction
 
-## 2. 功能
+A lightweight and easy-to-use cross-server chat plugin for Minecraft servers. Supports hash-based chat color formatting on server clients with DragonCore.
 
-- **交互行为**：支持设置鼠标悬停显示和点击动作等交互行为，提升用户体验
+## 2. Features
 
-- **动态插入消息**：支持使用PlaceHolderAPI占位符，聊天消息格式里的占位符可以根据值动态调整聊天消息、悬浮、以及点击
+- **Interactive Actions**: Supports hover text display and click actions (e.g., commands, suggestions) to enhance user interaction.
+- **Dynamic Message Insertion**: Utilizes PlaceholderAPI to dynamically adjust chat messages, hovers, and click actions based on placeholder values.
+- **Colors & Gradients**: Allows using color codes and gradient syntax (e.g., `<#ffffff-#000000>example message<end>`) for rich text styling.
 
-- **颜色与渐变**：支持使用颜色代码和颜色渐变代码为消息文本设置丰富的颜色效果（<#ffffff-#000000>example message<end>）
+## 3. Quick Start
 
-## 3. 快速开始
-
-- 下载或者构建Jar文件
-- 将它放进代理端的plugins文件夹以及子端的plugins文件夹
-- 重启或启动代理端和子端
+- Download or build the plugin JAR file.
+- Place the JAR into the `plugins` folder of both your proxy (e.g., BungeeCord) and backend servers.
+- Restart or reload your proxy and backend servers.
