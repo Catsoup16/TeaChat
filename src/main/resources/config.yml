@@ -4,4 +4,6 @@ settings:
   defaultChannel: global
   debug: false
 filter:
-  草: 喵
+  fuck: '*'
+  bitch: '*'
+  shit: '*'
