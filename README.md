@@ -6,7 +6,7 @@ English | [简体中文](https://github.com/TeaNiko/TeaChat/blob/main/README-zh_
 
 ## 1. Introduction
 
-A lightweight and easy-to-use cross-server chat plugin for Minecraft servers. Supports hash-based chat color formatting on server clients with DragonCore.
+A lightweight and easy-to-use chat plugin that customizes chat formats and hex colors through PlaceholderAPI, designed for Minecraft Bukkit servers. It supports proxy servers such as BungeeCord, Waterfall, and Velocity, and requires installation on both the proxy server and the sub-servers
 
 ## 2. Features
 

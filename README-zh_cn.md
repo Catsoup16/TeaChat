@@ -6,7 +6,7 @@
 
 ## 1. 介绍
 
-​	一个简单易用的Minecraft服务端跨服聊天插件，支持具有DragonCore的服务端客户端上哈希聊天色彩
+​	一个轻量级且易于使用的聊天插件，通过PlaceholderAPI定制聊天格式和十六进制颜色，专为Minecraft Bukkit服务器设计。它支持BungeeCord、Waterfall和Velocity等代理服务器，需要在代理服务器和子服务器上同时安装
 
 ## 2. 功能
 
